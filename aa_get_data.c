@@ -14,7 +14,7 @@
 #include "../include/utilities.h"
 
 
-/* creates a dynamic piece that depends on the size of the map bad adding or 
+/* creates a dynamic piece that depends on the size of the map by adding or 
 removing '.' between '#' (n times where (n = root - 4) (4 = given size of 
 tetriminos) */
 char	*get_dyn(char *t, size_t root)
