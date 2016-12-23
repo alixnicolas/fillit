@@ -6,7 +6,7 @@ problematic in programming : searching for the optimal solution among a huge set
 In this particular project, it has been charged to create an algorithm which
 fits some Tetriminos together into the smallest possible square.
 
-The program use an array of strings to contain all the set of Tetriminos and does not use recursion to solve the map.
+The program uses an array of strings to contain all the set of Tetriminos and does not use recursion to solve the map.
 
 include/utilities.h --> prototypes, static array of strings (= set of all the Tetriminos)
 
