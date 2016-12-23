@@ -13,12 +13,6 @@
 #include "../include/libft.h"
 #include "../include/utilities.h"
 
-/******************************************************************************
-******************************* MAKE ARRAY ************************************
-******* Creates an array with all the input pieces by order of appearance 
-******* t[0] = first piece. 
-*******************************************************************************/
-
 /* BONUS : this function is used by aa_get_data.c to malloc the piece once the
  root of the map is given */
 
